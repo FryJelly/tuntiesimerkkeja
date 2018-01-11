@@ -10,6 +10,7 @@ namespace HelloGIT
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello GITTY!");
         }
     }
 }
