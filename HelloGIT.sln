@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A0FB0D80-C9C8-4D12-BC0A-6C003F019628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{AF16873D-DFFB-480F-BDF2-BCD2F5F5E914}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staticesim", "ConsoleApp2\Staticesim.csproj", "{AF16873D-DFFB-480F-BDF2-BCD2F5F5E914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{937B6F4C-8CAB-461E-9906-E9462803BF68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catesim", "ConsoleApp3\Catesim.csproj", "{937B6F4C-8CAB-461E-9906-E9462803BF68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
