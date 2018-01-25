@@ -10,16 +10,11 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            CreateCats(99);
-            Console.WriteLine("CatCount: " + Cat.CatCount());
-        }
-        static void CreateCats(int num)
-        {
-            int i;
-            for (i = 0; i < 99; i++)
-            {
-                Cat cat = new Cat();
-            }
+            double d = 654321.9987;
+            int i = Convert.ToInt32(d);
+
+
+            Console.WriteLine("c: " + i);
         }
     }
 }
