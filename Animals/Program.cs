@@ -26,7 +26,15 @@ namespace Animals
             {
                 // note we can handle this with one talk-method!
                 animal.Talk();
-                Console.WriteLine("Animal is: " + animal.GetType());
+
+                if (animal is Chicken)
+                {
+                    Console.WriteLine("This one is a chicken");
+                    Chicken chicken = animal as Chicken;
+                    chicken.Talk();
+                }
+
+                //Console.WriteLine("Animal is: " + animal.GetType());
             }
         }
     }
