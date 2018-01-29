@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawShapes", "DrawShapes\DrawShapes.csproj", "{CBF8DA2D-E7EC-4866-AAA4-C9F5A47F916F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTest", "UserTest\UserTest.csproj", "{1FF1C973-BB16-416D-BEA7-A41D90DB581D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CBF8DA2D-E7EC-4866-AAA4-C9F5A47F916F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBF8DA2D-E7EC-4866-AAA4-C9F5A47F916F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBF8DA2D-E7EC-4866-AAA4-C9F5A47F916F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF1C973-BB16-416D-BEA7-A41D90DB581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF1C973-BB16-416D-BEA7-A41D90DB581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF1C973-BB16-416D-BEA7-A41D90DB581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF1C973-BB16-416D-BEA7-A41D90DB581D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
