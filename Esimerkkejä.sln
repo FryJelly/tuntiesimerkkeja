@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections2", "Collections
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsStackQueue", "CollectionsStack\CollectionsStackQueue.csproj", "{D913285A-E336-4ABC-8A36-28CFE1AF4C6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamesToFile", "NamesToFile\NamesToFile.csproj", "{4067DF35-9A28-4937-A3F7-0E9363213BE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D913285A-E336-4ABC-8A36-28CFE1AF4C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D913285A-E336-4ABC-8A36-28CFE1AF4C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D913285A-E336-4ABC-8A36-28CFE1AF4C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4067DF35-9A28-4937-A3F7-0E9363213BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4067DF35-9A28-4937-A3F7-0E9363213BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4067DF35-9A28-4937-A3F7-0E9363213BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4067DF35-9A28-4937-A3F7-0E9363213BE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
